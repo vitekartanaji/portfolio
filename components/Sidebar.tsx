@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import React from 'react'
-import img1 from "../public/images/tanaji_img.jpeg";
+import img1 from "../components/tanaji_img.jpeg";
 import { AiFillGithub, AiFillLinkedin } from "react-icons/ai";
 import { GoLocation } from "react-icons/go";
 import { GiTie } from "react-icons/gi";
